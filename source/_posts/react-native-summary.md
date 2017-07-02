@@ -1,7 +1,10 @@
 ---
 title: React Native实战总结
 date: 2017-06-24 16:18:31
-tags: ReactNative
+tags: 
+	- ReactNative
+	- Javascript
+	- HTML
 ---
 
 入职有道数月，主要参与了精品课垂直页的改版，期间遇到了不少坑，虽然还未正式上线，但是也值得总结一波，故写下此文。

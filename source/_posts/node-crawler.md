@@ -1,7 +1,10 @@
 ---
 title: Node爬虫爬取网页静态资源
 date: 2016-12-11 14:30:50
-tags: Node, Crawler
+tags: 
+	- Crawler
+	- Javascript
+	- Node
 ---
 
 ### 一、准备工作

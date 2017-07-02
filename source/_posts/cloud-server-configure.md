@@ -1,7 +1,10 @@
 ---
 title: 腾讯云ubuntu服务器配置
 date: 2016-11-07 18:59:23
-tags: Ubuntu
+tags: 
+	- Configure
+	- Cloud Server
+	- Ubuntu
 ---
 
 ### 零、域名绑定
